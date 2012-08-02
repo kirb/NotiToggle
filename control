@@ -1,0 +1,10 @@
+Package: ws.hbang.notitoggle
+Name: NotiToggle
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, sbsettings
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SBSettings toggle for disabling banner notifications
+Maintainer: thekirbylover
+Author: thekirbylover
+Section: Addons (SBSettings)
